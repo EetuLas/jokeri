@@ -1,0 +1,19 @@
+button {
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 6px;
+    background-color: rgba(176, 177, 222, 0.555) ;
+}
+
+table {
+    border-spacing: 10px;
+}
+
+td {
+    padding: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border: 1px solid;
+    border-radius: 4px;
+    background-color: blanchedalmond;
+}
